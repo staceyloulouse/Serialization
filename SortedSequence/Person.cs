@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Serialization
+namespace Serializations
 {
     class Person
     {
